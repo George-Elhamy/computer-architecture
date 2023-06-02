@@ -1,0 +1,4 @@
+movi r1 7 
+movi r2 2
+movm r1 r2 3 
+movr r5 r2 3

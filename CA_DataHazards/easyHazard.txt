@@ -1,0 +1,9 @@
+movi r1 5
+movi r2 2 
+add r2 r2 r1
+add r3 r2 r1 
+mul r4 r3 r1
+lsl r5 r4 2
+movi r6 8
+movi r6 32
+lsr r7 r6 2
